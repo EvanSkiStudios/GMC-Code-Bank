@@ -14,4 +14,4 @@ By default all code submissions in the gmc forum topic will be added to this ind
 If your code is in the repo and you would like for it to be removed, please submit an issue ticket  
 
 ## Indexes 
-- [Index by User](https://github.com/EvanSkiStudios/GMC-Code-Bank/Indexes/Index-by-User.md)
+- [Index by User](https://github.com/EvanSkiStudios/GMC-Code-Bank/blob/main/Indexes/Index%20by%20User.md)
