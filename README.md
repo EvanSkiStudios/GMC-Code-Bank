@@ -10,7 +10,7 @@ The code in this repo is allowed to be used, studied, modified and redistributed
 All copyright of code belongs to their respective owners.  
 
 ## Submission FAQ
-By default all code submissions in the gmc forum topic will be added to this index at earliest convenience  
+By default all GML code submissions in the gmc forum topic will be added to this index at earliest convenience  
 If your code is in the repo and you would like for it to be removed, please submit an issue ticket  
 
 ## Indexes 

@@ -1,4 +1,3 @@
 # Auto detect text files and perform LF normalization
 * text=auto
-*.gml linguist-language=GML
-*.gml linguist-vendored=GML
+*.gml linguist-language=Game-Maker-Language
