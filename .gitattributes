@@ -2,3 +2,4 @@
 * text=auto
 # Re-classify .yy files (for GMS 2 projects)
 *.yy linguist-language=GML
+*.gml linguist-language=GML
