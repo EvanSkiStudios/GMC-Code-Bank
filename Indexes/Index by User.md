@@ -28,7 +28,7 @@
 - [Samuel Venable](https://github.com/EvanSkiStudios/GMC-Code-Bank/tree/main/GMC%20Code%20Bank/SamuelVenable)
 - [Simon Gust](https://github.com/EvanSkiStudios/GMC-Code-Bank/tree/main/GMC%20Code%20Bank/SimonGust)
 - [Slojanko](https://github.com/EvanSkiStudios/GMC-Code-Bank/tree/main/GMC%20Code%20Bank/Slojanko)
-- [TheCreator](https://github.com/EvanSkiStudios/GMC-Code-Bank/tree/main/GMC%20Code%20Bank/TheCreator)
+- [TtheCreator](https://github.com/EvanSkiStudios/GMC-Code-Bank/tree/main/GMC%20Code%20Bank/TtheCreator)
 - [TheSnidr](https://github.com/EvanSkiStudios/GMC-Code-Bank/tree/main/GMC%20Code%20Bank/TheSnidr)
 - [Tsa05](https://github.com/EvanSkiStudios/GMC-Code-Bank/tree/main/GMC%20Code%20Bank/Tsa05)
 - [TunnelRhino](https://github.com/EvanSkiStudios/GMC-Code-Bank/tree/main/GMC%20Code%20Bank/TunnelRhino)
