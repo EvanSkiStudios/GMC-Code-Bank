@@ -1,0 +1,1 @@
+A funny little macro that ensures that the code after it in a script / object (not instance!) event is executed only once.
