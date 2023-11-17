@@ -1,8 +1,8 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 *.gml linguist-language=GML
-
 *.gml linguist-vendored
+
 *.cpp linguist-vendored=false
 *.c linguist-vendored=false
 *.sh linguist-vendored=false
