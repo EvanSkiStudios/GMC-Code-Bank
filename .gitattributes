@@ -2,5 +2,8 @@
 * text=auto
 *.gml linguist-language=GML
 
-*.cpp linguist-vendored
-*.c linguist-vendored
+*.gml linguist-vendored
+*.cpp linguist-vendored=false
+*.c linguist-vendored=false
+*.sh linguist-vendored=false
+*.bat linguist-vendored=false
