@@ -2,5 +2,5 @@
 * text=auto
 *.gml linguist-language=GML
 
-*.cpp linguist-vendored=false
-*.c linguist-vendored=false
+*.cpp linguist-vendored
+*.c linguist-vendored
